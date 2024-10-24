@@ -1,0 +1,11 @@
+SupplierID,Supplier,PerformanceScore,AvgPrice,LeadTime
+1fed4e87-58b3-47cd-a6f6-db25bf4f6c33,Supplier_A,1.87,35.8,8
+f881e241-0cf8-4541-84c0-deb98a3fbc86,Supplier_B,2.94,61.39,14
+88728af2-0ba5-40cf-ae79-665c90f3f4cf,Supplier_C,1.93,25.68,17
+a503959b-88b7-49f6-9623-5d5bd656cf2f,Supplier_D,2.75,28.98,29
+e0de5c6f-c158-42d5-a3b4-73b659e5442d,Supplier_E,4.87,70.28,26
+07a00b65-c7d8-45ae-b315-d925c1408600,Supplier_F,2.16,61.16,10
+b2ec455b-d5bc-4334-96a0-b884dc7bb676,Supplier_G,4.98,50.15,7
+27714380-5e2d-4742-af80-2de6357eef92,Supplier_H,1.27,84.03,15
+0b62207d-5da7-4cc3-b4ff-62ebe3f16a80,Supplier_I,1.66,48.77,28
+a11ebd35-b317-43bd-b44d-1738bba962cf,Supplier_J,1.56,29.29,8
