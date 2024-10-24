@@ -1,5 +1,4 @@
-# Apparel Industry Data Analysis Dashboards
-
+<h1 align="center">Apparel Industry Data Analysis Dashboards 📊</h1>
 ## Overview
 This repository contains two dashboards created as part of a project focused on optimizing the **Buying and Sourcing** strategies for the apparel industry. These dashboards provide insights into **Cost Price Reduction** and **Restocks and Inventory Management**, helping the team make data-driven decisions to reduce costs, manage inventory more effectively, and improve supply chain reliability.
 
