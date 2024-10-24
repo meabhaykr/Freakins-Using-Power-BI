@@ -1,6 +1,5 @@
 <h1 align="center">Apparel Industry Data Analysis Dashboards 📊</h1>
 
-## Overview
 This repository contains two dashboards created as part of a project focused on optimizing the **Buying and Sourcing** strategies for the apparel industry. These dashboards provide insights into **Cost Price Reduction** and **Restocks and Inventory Management**, helping the team make data-driven decisions to reduce costs, manage inventory more effectively, and improve supply chain reliability.
 
 ## Dashboards
@@ -44,7 +43,7 @@ This project aims to support the **Buying and Sourcing Team** in the apparel ind
   
 ## How to Use
 1. Clone the repository to your local environment.
-2. Open the provided Power BI files (`.pbix`) in Power BI Desktop.
+2. Open the provided Power BI files (`https://github.com/meabhaykr/Freakins-Using-Power-BI/blob/main/Power%20Bi%20FreakinsCom.pbix`) in Power BI Desktop.
 3. Use the filters provided in the dashboards to explore the data by year, category, or specific items.
 4. Gain insights into cost structures, supplier negotiations, sales performance, and inventory strategies.
 
